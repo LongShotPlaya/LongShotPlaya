@@ -1,23 +1,18 @@
-- 👋 Hi, I’m @LongShotPlaya
-- 👀 I’m interested in Swimming, camping and passing school lol
-- 🌱 I’m currently learning C++
-
 # Hi there, I'm Jacob 👋
 
 ## About Me
 I am a recent graduate with a Bachelor of Science in Computer Science and a minor in Cyber Security from Oklahoma Christian University. I am passionate about technology, coding, and security, and I love working on innovative projects that solve real-world problems.
 
-- 🌱 I’m currently studying for my CompTIA Security+, Cloud+ and Network+ Cirtifications. 
+- 🌱 I’m currently taking my CompTIA Security+, Cloud+ and Network+ Cirtifications. 
 - 🔭 I’m working on several personal projects related to web development and cyber security.
-- ⚡ Fun fact: In highschool and college I was a nationally ranked competitive swimmer. 
-- ⚡ Another Fun fact: I am an avid gamer and enjoy exploring new tech gadgets.
+- ⚡ Fun facts: In highschool and college I was a nationally ranked competitive swimmer, I am an avid gamer and I enjoy exploring new tech gadgets.
 
 ## Skills
-- **Languages**: Python, JavaScript, Java, C++, SQL, Dart, Flutter
-- **Web Development**: HTML, CSS, Vue.js, Node.js, Vue.js, node.js
+- **Languages**: Python, JavaScript, Java, C++, Assembly Langauge 8086x, SQL, Dart, Flutter
+- **Full-Stack Web Development**: HTML, CSS, Vue.js, Node.js, Google Auth, Jest
 - **Databases**: MySQL, phpMyAdmin
-- **Cyber Security**: Network Security, Ethical Hacking, Cryptography
-- **Tools & Technologies**: Git, AWS, Kali Linux, Google Auth, Wifi-Pineapple, 
+- **Cyber Security**: Network Security, Ethical Hacking, Cryptography, Password Cracking, Network, Windows, Mac, and Mobile Forensics, 
+- **Tools & Technologies**: Git, AWS, Kali Linux, Wifi-Pineapple, Xampp, Apache, Agile/Scrum, Wireshark, nmap, Cisco Packet Tracer, Autopsy, E3
 
 ## Projects
 Here are a few projects I've been working on:
