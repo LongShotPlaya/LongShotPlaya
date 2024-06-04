@@ -1,4 +1,4 @@
-# Hi there, I'm Jacob 👋
+# Hi there, I'm LongShotPlaya 👋
 
 ## About Me
 I am a recent graduate with a Bachelor of Science in Computer Science and a minor in Cyber Security from Oklahoma Christian University. I am passionate about technology, coding, and security, and I love working on innovative projects that solve real-world problems.
