@@ -14,24 +14,6 @@ I am a recent graduate with a Bachelor of Science in Computer Science and a mino
 - **Cyber Security**: Network Security, Ethical Hacking, Cryptography, Password Cracking, Network, Windows, Mac, and Mobile Forensics, 
 - **Tools & Technologies**: Git, AWS, Kali Linux, Wifi-Pineapple, Xampp, Apache, Agile/Scrum, Wireshark, nmap, Cisco Packet Tracer, Autopsy, E3
 
-## Projects
-Here are a few projects I've been working on:
-
-### [Project Name 1]
-**Description**: A brief description of the project, what it does, and the technologies used.
-- **Technologies**: Vue.js, Node.js, MongoDB
-- [GitHub Repository](link-to-repo)
-
-### [Project Name 2]
-**Description**: A brief description of the project, what it does, and the technologies used.
-- **Technologies**: Python, Flask, MySQL
-- [GitHub Repository](link-to-repo)
-
-### [Project Name 3]
-**Description**: A brief description of the project, what it does, and the technologies used.
-- **Technologies**: Java, Spring Boot, PostgreSQL
-- [GitHub Repository](link-to-repo)
-
 ## Education
 - **Bachelor of Science in Computer Science**
   - Oklahoma Christian University, 2024
