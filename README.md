@@ -3,9 +3,12 @@
 ## About Me
 I am a recent graduate with a Bachelor of Science in Computer Science and a minor in Cyber Security from Oklahoma Christian University. I am passionate about technology, coding, and security, and I love working on innovative projects that solve real-world problems.
 
-- 🌱 I’m currently taking my CompTIA Security+, Cloud+ and Network+ Cirtifications. 
+- 🌱 I’m currently taking my CompTIA Cloud+ and Network+ Cirtifications. 
 - 🔭 I’m working on several personal projects related to web development and cyber security.
 - ⚡ Fun facts: In highschool and college I was a nationally ranked competitive swimmer, I am an avid gamer and I enjoy exploring new tech gadgets.
+
+## Certifications
+- Comptia Security+ (701).
 
 ## Skills
 - **Languages**: Python, JavaScript, Java, C++, Assembly Langauge 8086x, SQL, Dart, Flutter
